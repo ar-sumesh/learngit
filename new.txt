@@ -1,3 +1,2 @@
-hello world i am learning git locally
+hello world i am learning git remote
 change the above line remote
-adding new line from local
